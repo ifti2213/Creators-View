@@ -35,6 +35,30 @@ body{
   }
 video{
     max-width: 100%;
-    height: auto
+    height: auto;
     
+}
+h1{
+  max-width: 100%;
+  height: auto; 
+  color: #04AA6D;
+  text-align: center;
+  user-select: none;
+}
+h1:hover{
+  color:black;
+  text-decoration: underline;
+  font-style: italic;
+}
+p{
+  max-width: 100%;
+  height: auto;
+  text-align: justify;
+  font-size: 20px;
+}
+#footer{
+  text-align: right; 
+}
+footer{
+  background-color: #04AA6D;
 }

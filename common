@@ -10,30 +10,25 @@
     <div class="topnav">
         <a class="active" href="index.html">Home</a>
         <a href="about.html">About</a>
+        out
         <a href="contact.html">Contact</a>
     
       </div>
 </head>
-<body>
-
-</body>
 <footer>
-  <p>
-  <U>
-      Social Media
-  </U>
-  <br>
-  <a href="">Facebook</a>
-  <br>
-  <a href="">Youtube</a>
-  <br>
-  <div id="id="footer">
-      <p>This site is prepared by 
-      <a href="https://sites.google.com/view/ifti2213">
-          Md. Iftekhar Alam
-      </a>
-      </p>
-  </div>
-  </p>
-</footer>
-</html>
+    <p>
+    <U>
+        Social Media
+    </U>
+    <br>
+    <a href="">Facebook</a>
+    <br>
+    <a href="">Youtube</a>
+    <br>
+    
+        This site is prepared by 
+        <a href="https://sites.google.com/view/ifti2213" class="footer">
+            Md. Iftekhar Alam
+        </a>
+    </p>
+</footer></html>
